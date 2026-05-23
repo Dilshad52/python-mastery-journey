@@ -9,15 +9,15 @@
 - Logical Operators
 
 ## Operators Covered
--  >
--  <
--  >=
--  <=
--  ==
--  !=
--  and
--  or
--  not
+- `>`
+- `<`
+- `>=`
+- `<=`
+- `==`
+- `!=`
+- `and`
+- `or`
+- `not`
 
 ## Programs Practiced
 1. Largest of 3 Numbers
