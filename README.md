@@ -19,9 +19,11 @@ This repository contains my complete Python learning journey from basics to adva
 | Day | Topic |
 |-----|------|
 | Day 1 | Python Basics |
+| Day 2 |Operators & Conditional Statements |
 
 ## Goal
 To become a skilled Python Developer, Data Analyst, and ML Engineer.
 
 ## Repository Structure
 Day-01-Python-Basics/
+Day-02-Conditional-Statements/
