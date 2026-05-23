@@ -26,19 +26,5 @@
 4. Greatest Using Nested if
 5. Simple Calculator
 
-## Practice Problems
-- Even or Odd
-- Palindrome Number
-- Smallest of Three
-- Vowel or Consonant
-- Electricity Bill Calculator
-
-## Interview Preparation
-Learned:
-- Difference between == and !=
-- Difference between and and or
-- Nested if
-- Operator precedence
-
 ## Progress
 Completed Day 2 successfully 🚀
