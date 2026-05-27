@@ -10,6 +10,7 @@ This repository contains my complete Python learning journey from basics to adva
 - Conditions
 - Loops
 - Strings
+- Lists
 - Functions
 - OOP
 - File Handling
@@ -23,6 +24,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 2 |Operators & Conditional Statements |
 | Day 3 | Loops |
 | Day 4 | Strings |
+| Day 5 | Lists |
 
 ## Goal
 To become a skilled Python Developer, Data Analyst, and ML Engineer.
@@ -32,4 +34,6 @@ Day-01-Python-Basics/
 Day-02-Conditional-Statements/
 Day-03-Loops/
 Day-04-Strings/
+Day-05-Lists/
+
 
