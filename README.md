@@ -11,7 +11,7 @@ This repository contains my complete Python learning journey from basics to adva
 - Loops
 - Strings
 - Lists
-- Tuple,set,Dictionary
+- Tuples-Sets-Dictionaries
 - Functions
 - OOP
 - File Handling
@@ -26,7 +26,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 3 | Loops |
 | Day 4 | Strings |
 | Day 5 | Lists |
-| Day 6 | Tuple,set,Dictionary |
+| Day 6 | Tuples-Sets-Dictionaries |
 
 ## Goal
 To become a skilled Python Developer, Data Analyst, and ML Engineer.
@@ -37,7 +37,7 @@ Day-02-Conditional-Statements/
 Day-03-Loops/
 Day-04-Strings/
 Day-05-Lists/
-Day-06-Tuple-Set-Dictionary/
+Day-06-Tuples-Sets-Dictionaries/
 
 
 
