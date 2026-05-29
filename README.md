@@ -27,6 +27,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 4 | Strings |
 | Day 5 | Lists |
 | Day 6 | Tuples-Sets-Dictionaries |
+| Day 7 | Functions |
 
 ## Goal
 To become a skilled Python Developer, Data Analyst, and ML Engineer.
@@ -38,6 +39,8 @@ Day-03-Loops/
 Day-04-Strings/
 Day-05-Lists/
 Day-06-Tuples-Sets-Dictionaries/
+Day-07-Functions/
+
 
 
 
