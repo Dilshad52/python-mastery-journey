@@ -14,6 +14,7 @@ This repository contains my complete Python learning journey from basics to adva
 - Tuples-Sets-Dictionaries
 - Functions
 - File Handling
+- Exception Handling
 - OOP
 - DSA with Python
 - Projects
@@ -29,6 +30,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 6 | Tuples-Sets-Dictionaries |
 | Day 7 | Functions |
 | Day 8 | File Handling |
+| Day 9 | Exception Handling |
 
 
 ## Mini Projects
@@ -37,6 +39,12 @@ This repository contains my complete Python learning journey from basics to adva
 - Day 8 Project
 - Python + File Handling
 - Add, View and Store Student Records
+
+### ATM Simulator
+- Day 9 Project
+- Exception Handling
+- Input Validation
+- Balance Checking
 
 
 ## Goal
@@ -51,6 +59,7 @@ Day-05-Lists/
 Day-06-Tuples-Sets-Dictionaries/
 Day-07-Functions/
 Day-08-File Handling/
+Day-09-Exception Handling/
 
 
 
