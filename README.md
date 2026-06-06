@@ -61,7 +61,7 @@ Day-06-Tuples-Sets-Dictionaries/
 Day-07-Functions/
 Day-08-File Handling/
 Day-09-Exception Handling/
-Day-10-Revision & Problem Solving/
+Day-10-Revision-And-Problem-Solving/
 
 
 
