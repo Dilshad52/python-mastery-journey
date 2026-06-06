@@ -31,6 +31,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 7 | Functions |
 | Day 8 | File Handling |
 | Day 9 | Exception Handling |
+| Day 10| Revision & Problem solving |
 
 
 ## Mini Projects
@@ -60,6 +61,8 @@ Day-06-Tuples-Sets-Dictionaries/
 Day-07-Functions/
 Day-08-File Handling/
 Day-09-Exception Handling/
+Day-10-Revision & Problem Solving/
+
 
 
 
