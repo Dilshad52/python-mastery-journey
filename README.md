@@ -49,11 +49,11 @@ This repository contains my complete Python learning journey from basics to adva
 - Balance Checking
   
 ### Student Management System
-Day 11 Project
-Python OOP + File Handling
-Student Record Management
-Add, Search, Update and Delete Students
-Persistent Data Storage
+- Day 11 Project
+- Python OOP + File Handling
+- Student Record Management
+- Add, Search, Update and Delete Students
+- Persistent Data Storage
 
 
 ## Goal
