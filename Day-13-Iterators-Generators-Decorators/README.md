@@ -40,14 +40,6 @@ Uses yield keyword to generate values lazily.
 ### Decorator
 Adds functionality to existing functions without modifying their code.
 
-## Practice Problems
-
-- Square Generator
-- Odd Number Generator
-- Custom Counter Iterator
-- Fibonacci Generator
-- Function Logger Decorator
-
 ## Learning Outcome
 
 - Understood Python Iteration Protocol
