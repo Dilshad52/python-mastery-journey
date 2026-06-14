@@ -32,7 +32,8 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 8 | File Handling |
 | Day 9 | Exception Handling |
 | Day 10| Revision & Problem solving |
-| Day 11| Object Oriented Programming |
+| Day 11-12| Object Oriented Programming |
+| Day 13| Generators, Iterators & Decorators |
 
 
 ## Mini Projects
@@ -70,7 +71,7 @@ Day-07-Functions/
 Day-08-File Handling/
 Day-09-Exception Handling/
 Day-10-Revision-And-Problem-Solving/
-Day-11-Object-Oriented-Programming/
+Day-11-12-Object-Oriented-Programming/
 
 
 
