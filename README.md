@@ -33,7 +33,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 9 | Exception Handling |
 | Day 10| Revision & Problem solving |
 | Day 11-12| Object Oriented Programming |
-| Day 13| Generators, Iterators & Decorators |
+| Day 13| Iterators, Generators & Decorators |
 
 
 ## Mini Projects
