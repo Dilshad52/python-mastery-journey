@@ -66,9 +66,9 @@ This repository contains my complete Python learning journey from basics to adva
 
 ### Custom Calculator Module
 Day 14 Project
-Python Modules
-Import Statements
-Code Reusability
+- Python Modules
+- Import Statements
+- Code Reusability
 
 
 ## Goal
