@@ -34,6 +34,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 10| Revision & Problem solving |
 | Day 11-12| Object Oriented Programming |
 | Day 13| Iterators, Generators & Decorators |
+| Day 14| Modules, Packages, pip & Virtual Environments |
 
 
 ## Mini Projects
@@ -63,6 +64,12 @@ This repository contains my complete Python learning journey from basics to adva
 - Function Execution Tracking
 - Reusable Logging System
 
+### Custom Calculator Module
+Day 14 Project
+Python Modules
+Import Statements
+Code Reusability
+
 
 ## Goal
 To become a skilled Python Developer, Data Analyst, and ML Engineer.
@@ -80,6 +87,7 @@ Day-09-Exception Handling/
 Day-10-Revision-And-Problem-Solving/
 Day-11-12-Object-Oriented-Programming/
 Day-13-Iterators-Generators-Decorators/
+Day-14-Modules-Packages-Pip-Venv/
 
 
 
