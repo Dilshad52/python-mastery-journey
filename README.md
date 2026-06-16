@@ -16,6 +16,9 @@ This repository contains my complete Python learning journey from basics to adva
 - File Handling
 - Exception Handling
 - OOP
+- Iterators, Generators & Decorators
+- Modules, Packages, pip & Virtual Environments
+- Regular-Expressions-Regex 
 - DSA with Python
 - Projects
 
@@ -35,6 +38,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 11-12| Object Oriented Programming |
 | Day 13| Iterators, Generators & Decorators |
 | Day 14| Modules, Packages, pip & Virtual Environments |
+| Day 15| Regular-Expressions-Regex |
 
 
 ## Mini Projects
@@ -94,6 +98,7 @@ Day-10-Revision-And-Problem-Solving/
 Day-11-12-Object-Oriented-Programming/
 Day-13-Iterators-Generators-Decorators/
 Day-14-Modules-Packages-Pip-Venv/
+Day-15-Regular-Expressions-Regex/
 
 
 
