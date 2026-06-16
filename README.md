@@ -70,9 +70,15 @@ Day 14 Project
 - Import Statements
 - Code Reusability
 
+### Regex Data Cleaner
+Day 15 Project
+- Python Regular Expressions
+- Pattern Matching
+- Email & Number Extraction
+- Text Data Cleaning
 
 ## Goal
-To become a skilled Python Developer, Data Analyst, and ML Engineer.
+To become a skilled Full Stack Python Developer, Data Analyst
 
 ## Repository Structure
 Day-01-Python-Basics/
@@ -88,6 +94,7 @@ Day-10-Revision-And-Problem-Solving/
 Day-11-12-Object-Oriented-Programming/
 Day-13-Iterators-Generators-Decorators/
 Day-14-Modules-Packages-Pip-Venv/
+
 
 
 
