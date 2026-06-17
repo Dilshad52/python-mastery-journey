@@ -18,7 +18,8 @@ This repository contains my complete Python learning journey from basics to adva
 - OOP
 - Iterators, Generators & Decorators
 - Modules, Packages, pip & Virtual Environments
-- Regular-Expressions-Regex 
+- Regular-Expressions-Regex
+- Comprehensions-Map-Filter-Reduce
 - DSA with Python
 - Projects
 
@@ -39,6 +40,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 13| Iterators, Generators & Decorators |
 | Day 14| Modules, Packages, pip & Virtual Environments |
 | Day 15| Regular-Expressions-Regex |
+| Day 16| Comprehensions-Map-Filter-Reduce |
 
 
 ## Mini Projects
@@ -106,6 +108,7 @@ Day-11-12-Object-Oriented-Programming/
 Day-13-Iterators-Generators-Decorators/
 Day-14-Modules-Packages-Pip-Venv/
 Day-15-Regular-Expressions-Regex/
+Day-16-Comprehensions-Map-Filter-Reduce/
 
 
 
