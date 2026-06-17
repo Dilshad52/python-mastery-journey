@@ -81,6 +81,13 @@ Day 15 Project
 - Email & Number Extraction
 - Text Data Cleaning
 
+### Data Cleaning Utility
+Day 16 Project
+- Python Functional Programming
+- List Comprehensions
+- map(), filter(), reduce()
+- Data Processing Workflow
+
 ## Goal
 To become a skilled Full Stack Python Developer, Data Analyst
 
@@ -99,6 +106,7 @@ Day-11-12-Object-Oriented-Programming/
 Day-13-Iterators-Generators-Decorators/
 Day-14-Modules-Packages-Pip-Venv/
 Day-15-Regular-Expressions-Regex/
+
 
 
 
