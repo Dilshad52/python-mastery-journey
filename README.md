@@ -41,6 +41,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 14| Modules, Packages, pip & Virtual Environments |
 | Day 15| Regular-Expressions-Regex |
 | Day 16| Comprehensions-Map-Filter-Reduce |
+| Day 17| Time Complexity & DSA Foundations |
 
 
 ## Mini Projects
@@ -109,6 +110,7 @@ Day-13-Iterators-Generators-Decorators/
 Day-14-Modules-Packages-Pip-Venv/
 Day-15-Regular-Expressions-Regex/
 Day-16-Comprehensions-Map-Filter-Reduce/
+Day17-time-complexity-dsa-foundations/
 
 
 
