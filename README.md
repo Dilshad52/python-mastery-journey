@@ -43,6 +43,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 16| Comprehensions-Map-Filter-Reduce |
 | Day 17| Time Complexity & DSA Foundations |
 | Day 18| Sorting-algorithms |
+| Day 19| Recursion-Stack-Backtracking |
 
 
 ## Mini Projects
@@ -91,6 +92,7 @@ Day 16 Project
 - List Comprehensions
 - map(), filter(), reduce()
 - Data Processing Workflow
+  
 
 ## Goal
 To become a skilled Full Stack Python Developer, Data Analyst
@@ -113,6 +115,7 @@ Day-15-Regular-Expressions-Regex/
 Day-16-Comprehensions-Map-Filter-Reduce/
 Day17-time-complexity-dsa-foundations/
 Day18-sorting-algorithms/
+Day19-Recursion-Stack-Backtracking/
 
 
 
