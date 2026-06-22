@@ -92,6 +92,13 @@ Day 16 Project
 - List Comprehensions
 - map(), filter(), reduce()
 - Data Processing Workflow
+
+### Binary String Generator
+Day 19 Project
+- Implemented Backtracking
+- Generated all binary strings of length N
+- Demonstrated recursive exploration of choices
+- Practiced call stack behavior
   
 
 ## Goal
