@@ -45,6 +45,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 18| Sorting-algorithms |
 | Day 19| Recursion-Stack-Backtracking |
 | Day 20| Student-Management-System |
+| Day 21| Linked-Lists |
 
 
 ## Mini Projects
@@ -125,6 +126,7 @@ Day17-time-complexity-dsa-foundations/
 Day18-sorting-algorithms/
 Day19-Recursion-Stack-Backtracking/
 Day20-Student-Management-System/
+Day21-Linked-Lists/
 
 
 
