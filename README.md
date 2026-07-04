@@ -50,7 +50,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 23| Stacks-and-Queues |
 | Day 24| Trees-and-BST |
 | Day 25| heaps-priority-queues |
-
+| Day 26| graphs |
 
 ## Mini Projects
 
@@ -135,6 +135,7 @@ Day22-Advanced-Linked-Lists/
 Day23-Stacks-and-Queues/
 Day24-Trees-and-BST/
 Day25-heaps-priority-queues/
+Day26-graphs/
 
 
 
