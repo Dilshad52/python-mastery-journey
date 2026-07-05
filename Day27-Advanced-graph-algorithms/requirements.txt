@@ -1,0 +1,2 @@
+No external packages required.
+Uses Python built-in modules: heapq and collections.
