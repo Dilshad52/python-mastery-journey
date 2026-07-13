@@ -1,0 +1,8 @@
+=== Dynamic Programming Demo ===
+
+Fibonacci (Memoization) of 10: 55
+Fibonacci (Tabulation) of 10: 55
+
+Ways to climb 5 stairs: 8
+
+LCS Length: 3
