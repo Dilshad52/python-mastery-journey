@@ -1,0 +1,17 @@
+Two Pointers Result:
+3 8
+
+Maximum Sliding Window Sum:
+9
+
+Prefix Sum Array:
+[0, 2, 6, 12, 20]
+
+Two Sum Indices:
+0 1
+
+Binary Search Index:
+3
+
+Next Greater Elements:
+[5, 5, -1, -1]
