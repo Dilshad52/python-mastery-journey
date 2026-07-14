@@ -53,7 +53,7 @@ This repository contains my complete Python learning journey from basics to adva
 | Day 26| graphs |
 | Day 27| Advanced-graph-algorithms |
 | Day 28| Dynamic-Programming |
-
+| Day 29| Coding-Interview-Patterns |
 ## Mini Projects
 
 ### Student Record System
@@ -140,7 +140,7 @@ Day25-heaps-priority-queues/
 Day26-graphs/
 Day27-Advanced-graph-algorithms/
 Day28-Dynamic-Programming/
-
+Day29-Coding-Interview-Patterns/
 
 
 
