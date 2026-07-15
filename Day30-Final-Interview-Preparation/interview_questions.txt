@@ -1,0 +1,22 @@
+Top Python Interview Questions
+
+1. What is Python?
+2. Difference between List and Tuple?
+3. Difference between Set and Dictionary?
+4. Mutable vs Immutable?
+5. What is OOP?
+6. What is Inheritance?
+7. What is Polymorphism?
+8. What is Encapsulation?
+9. What is Abstraction?
+10. What is Exception Handling?
+11. Difference between read() and readlines()?
+12. What is a Generator?
+13. What is a Decorator?
+14. Difference between Iterator and Generator?
+15. What is Time Complexity?
+16. Difference between Array and Linked List?
+17. Difference between Stack and Queue?
+18. Difference between DFS and BFS?
+19. What is Dynamic Programming?
+20. Explain Binary Search.
